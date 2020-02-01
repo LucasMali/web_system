@@ -1,0 +1,24 @@
+{
+  "name": "web_system",
+  "version": "1.0.0",
+  "description": "A simple web system for home use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasMaliszewski/web_system.git"
+  },
+  "author": "Lucas Maliszewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasMaliszewski/web_system/issues"
+  },
+  "homepage": "https://github.com/LucasMaliszewski/web_system#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-json": "^2.0.1",
+    "eslint-plugin-markdown": "^1.0.1"
+  }
+}
